@@ -35,7 +35,7 @@
 - 👋 Hi, I'm **Vishal Kashyap**
 - 🎓 Pursuing **BCA** at **Shobhit University, Meerut**
 - 🐍 Learning **Python, C, C++ & Java**
-- 🤖 My goal: become an **AI Engineer**
+- 🤖 My goal: become an **AI Engineer**and web development**
 - 💻 `Learn` ➜ `Practice` ➜ `Build` ➜ `Repeat` 🔁
 - 🤝 Open to collaborating on beginner-friendly projects
 - 📬 Reach me on LinkedIn, Instagram, Telegram or Gmail
